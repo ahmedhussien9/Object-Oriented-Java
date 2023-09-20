@@ -1,0 +1,12 @@
+
+/**
+Association indicates a loose relationship between two objects, which may interact with each other
+for some time. They are not dependent on each other-if one object is destroyed, the other can continue to exist,
+and there can be any number of each item in the relationship.
+
+One Object does not belong to another, and they may have numbers that are not tied to each other.
+
+An Example of association relationship could be a person and a hotel. A person might interact with a hotel
+but not own one. A hotel may interact with many people.
+
+*/
